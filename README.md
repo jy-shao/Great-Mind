@@ -9,3 +9,5 @@
 [Joseph von Fraunhofer, 1787 Mar - 1826 Jun, 39](https://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
 
 [Michael Faraday, 1791 Sep - 1867 Aug, 76](https://en.wikipedia.org/wiki/Michael_Faraday)
+
+[James Clerk Maxwell, 1831 June - 1879 Nov](https://en.wikipedia.org/wiki/James_Clerk_Maxwell)
