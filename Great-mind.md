@@ -32,9 +32,9 @@
 
 [Kurt Friedrich Gödel 哥德尔，1906 - 1978， 72](https://zh.wikipedia.org/wiki/%E5%BA%93%E5%B0%94%E7%89%B9%C2%B7%E5%93%A5%E5%BE%B7%E5%B0%94). 哥德尔不完备性定理。
 
-[Alan Mathison Turing 图灵，1912 - 1954, 41](https://zh.wikipedia.org/wiki/%E8%89%BE%E4%BC%A6%C2%B7%E5%9B%BE%E7%81%B5).
-
 [John von Neumann 冯 诺依曼， 1903 - 1957， 54](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%86%AF%C2%B7%E8%AF%BA%E4%BC%8A%E6%9B%BC).
+
+[Alan Mathison Turing 图灵，1912 - 1954, 41](https://zh.wikipedia.org/wiki/%E8%89%BE%E4%BC%A6%C2%B7%E5%9B%BE%E7%81%B5).
 
 [Richard Phillips Feynman 费曼，1918 - 1988， 69](https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E8%B2%BB%E6%9B%BC).
 
